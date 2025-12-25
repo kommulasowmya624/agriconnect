@@ -1,4 +1,4 @@
-/// <reference types="vite/client" />
+/// <referennce types="vite/client" />
 
 interface ImportMetaEnv {
     readonly VITE_FIREBASE_API_KEY: string
